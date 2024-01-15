@@ -1,7 +1,18 @@
 # Carlos Cabral - README
 
 ## Sobre mim
-Olá, eu sou Carlos Cabral, um entusiasta de desenvolvimento de sistemas atualmente trabalhando como Analista de Suporte Pleno. Possuo habilidades sólidas em HTML, CSS, JavaScript, React e Angular, além de experiência e formação em Linux e MySQL.
+
+Certainly! Here's a concise resume for you:
+
+Carlos Cabral
+Analista de Suporte Pleno | Desenvolvedor de Sistemas
+
+Habilidades Técnicas:
+
+Front-end: HTML, CSS, JavaScript, React, Angular
+Sistemas Operacionais: Linux
+Banco de Dados: MySQL
+QA: Testes de Software
 
 ## Habilidades
 - ![HTML](https://img.shields.io/badge/-HTML-orange)
