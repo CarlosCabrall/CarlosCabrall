@@ -1,13 +1,25 @@
 <b>Carlos Cabral</br><br>
 Analista de Suporte Pleno | Desenvolvedor de Sistemas
 
+
+Carlos Cabral
+
+Analista de Suporte Pleno | Desenvolvedor de Sistemas
+
 Habilidades Técnicas:
 
-Front-end: HTML, CSS, JavaScript, React, Angular<br>
-Sistemas Operacionais: Linux<br>
-Banco de Dados: MySQL<br>
-QA: Testes de Software<br>
-
+Front-end: HTML, CSS, JavaScript, React, Angular
+Back-end: Node.js
+Banco de Dados: MySQL, DBEaver, SQL, Modelagem de Dados
+Sistemas Operacionais: Linux (Administração e Linha de Comando)
+Ferramentas: Docker, Git
+Redes: Configuração e Administração
+Automatização: Scripts em Shell, Automação de Tarefas
+Testes: Unitários, Integração
+Metodologias: Scrum
+Segurança: Práticas de Segurança
+Colaboração: Trabalho em Equipe
+Resolução de Problemas: Análise de Logs, Diagnóstico de Falhas
 ## Habilidades
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
