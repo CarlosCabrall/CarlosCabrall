@@ -1,6 +1,3 @@
-<b>Carlos Cabral</br><br>
-Analista de Suporte Pleno | Desenvolvedor de Sistemas
-
 
 Carlos Cabral
 
