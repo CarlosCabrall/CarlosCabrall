@@ -20,6 +20,6 @@
   - ![MySQL](https://img.shields.io/badge/-MySQL-blue)
   
   **Experiência Profissional:**
-  Analista de Suporte Pleno na Empresa XYZ
+  Analista de Suporte Pleno na Empresa SZ Soluções<br>
   Período: 01/11/2023 - Atual
 </div>
