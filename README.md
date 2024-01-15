@@ -15,11 +15,6 @@ Olá, eu sou Carlos Cabral, um entusiasta de desenvolvimento de sistemas atualme
 ## Experiência Profissional
 
 ### Analista de Suporte Pleno na Empresa XYZ
-- Período: ![01/11/2023 - Atual](https://img.shields.io/badge/01/11/2023%20-%20Atual-green)
+- Período: 01/11/2023 - Atual
 
-## Contato
 
-- **LinkedIn**: [Carlos Cabral](https://www.linkedin.com/in/seu_perfil_linkedin/)
-- **E-mail**: carlos_kaduu700@hotmai.com
-
-Sinta-se à vontade para entrar em contato para colaborações ou networking!
