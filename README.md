@@ -1,8 +1,6 @@
-# Carlos Cabral - README
-
 ## Sobre mim
 
-<strong>Carlos Cabral</strong>Carlos Cabral<br>
+<strong>Carlos Cabral</strong>
 Analista de Suporte Pleno | Desenvolvedor de Sistemas
 
 Habilidades Técnicas:
