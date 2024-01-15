@@ -2,8 +2,6 @@
 
 ## Sobre mim
 
-Certainly! Here's a concise resume for you:
-
 Carlos Cabral
 Analista de Suporte Pleno | Desenvolvedor de Sistemas
 
