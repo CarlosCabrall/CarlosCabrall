@@ -4,13 +4,13 @@
 Olá, eu sou Carlos Cabral, um entusiasta de desenvolvimento de sistemas atualmente trabalhando como Analista de Suporte Pleno. Minhas principais habilidades incluem HTML, CSS, JavaScript, React e Angular. Além disso, tenho experiência e formação em Linux e MySQL.
 
 ## Habilidades
-- **HTML**: ![HTML](https://img.shields.io/badge/-HTML-orange)
-- **CSS**: ![CSS](https://img.shields.io/badge/-CSS-blue)
-- **JavaScript**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-- **React**: ![React](https://img.shields.io/badge/-React-blueviolet)
-- **Angular**: ![Angular](https://img.shields.io/badge/-Angular-red)
-- **Linux**: ![Linux](https://img.shields.io/badge/-Linux-lightgrey)
-- **MySQL**: ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+- ![HTML](https://img.shields.io/badge/-HTML-orange)
+- ![CSS](https://img.shields.io/badge/-CSS-blue)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- ![React](https://img.shields.io/badge/-React-blueviolet)
+- ![Angular](https://img.shields.io/badge/-Angular-red)
+- ![Linux](https://img.shields.io/badge/-Linux-lightgrey)
+- ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 
 ## Experiência Profissional
 
