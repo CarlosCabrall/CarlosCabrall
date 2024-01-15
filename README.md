@@ -8,19 +8,20 @@ Analista de Suporte Pleno | Desenvolvedor de Sistemas
 
 Habilidades Técnicas:
 
-Front-end: HTML, CSS, JavaScript, React, Angular
-Back-end: Node.js
-Banco de Dados: MySQL, DBEaver, SQL, Modelagem de Dados
-Sistemas Operacionais: Linux (Administração e Linha de Comando)
-Ferramentas: Docker, Git
-Redes: Configuração e Administração
-Automatização: Scripts em Shell, Automação de Tarefas
-Testes: Unitários, Integração
-Metodologias: Scrum
-Segurança: Práticas de Segurança
-Colaboração: Trabalho em Equipe
-Resolução de Problemas: Análise de Logs, Diagnóstico de Falhas
+Front-end: HTML, CSS, JavaScript, React, Angular<br>
+Back-end: Node.js<br>
+Banco de Dados: MySQL, DBEaver, SQL, Modelagem de Dados<br>
+Sistemas Operacionais: Linux (Administração e Linha de Comando)<br>
+Ferramentas: Docker, Git<br>
+Redes: Configuração e Administração<br>
+Automatização: Scripts em Shell, Automação de Tarefas<br>
+Testes: Unitários, Integração<br>
+Metodologias: Scrum<br>
+Segurança: Práticas de Segurança<br>
+Colaboração: Trabalho em Equipe<br>
+Resolução de Problemas: Análise de Logs, Diagnóstico de Falhas<br>
 ## Habilidades
+
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
