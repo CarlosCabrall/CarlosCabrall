@@ -1,5 +1,5 @@
 
-Carlos Cabral
+<b>Carlos Cabral
 
 Analista de Suporte Pleno | Desenvolvedor de Sistemas
 
@@ -16,7 +16,8 @@ Testes: Unitários, Integração<br>
 Metodologias: Scrum<br>
 Segurança: Práticas de Segurança<br>
 Colaboração: Trabalho em Equipe<br>
-Resolução de Problemas: Análise de Logs, Diagnóstico de Falhas<br>
+Resolução de Problemas: Análise de Logs, Diagnóstico de Falhas<br> </b>
+
 ## Habilidades
 
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
