@@ -2,6 +2,8 @@
 
 ## Sobre mim
 
+Certainly! Here's a concise resume for you:
+
 Carlos Cabral
 Analista de Suporte Pleno | Desenvolvedor de Sistemas
 
@@ -26,4 +28,5 @@ QA: Testes de Software
 ### Analista de Suporte Pleno na Empresa XYZ
 - Período: 01/11/2023 - Atual
 
-
+## Animação
+![Programador](SEU_LINK_DO_GIF)
