@@ -1,25 +1,104 @@
-<!-- No Markdown supports direct JavaScript execution. The animation will rely on CSS. -->
-<div style="animation: fadeIn 1s ease-in-out;">
-  
-  ## Carlos Cabral
-  Analista de Suporte Pleno | Desenvolvedor de Sistemas
-  
-  **Habilidades Técnicas:**
-  - Front-end: HTML, CSS, JavaScript, React, Angular
-  - Sistemas Operacionais: Linux
-  - Banco de Dados: MySQL
-  - QA: Testes de Software
-  
-  **Habilidades:**
-  - ![HTML](https://img.shields.io/badge/-HTML-orange)
-  - ![CSS](https://img.shields.io/badge/-CSS-blue)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  - ![React](https://img.shields.io/badge/-React-blueviolet)
-  - ![Angular](https://img.shields.io/badge/-Angular-red)
-  - ![Linux](https://img.shields.io/badge/-Linux-lightgrey)
-  - ![MySQL](https://img.shields.io/badge/-MySQL-blue)
-  
-  **Experiência Profissional:**
-  Analista de Suporte Pleno na Empresa SZ Soluções<br>
-  Período: 01/11/2023 - Atual
-</div>
+## O que é markdown e como funciona
+
+Como vocês perceberam a extensão desse arquivo é `.md`, o que indica que ele é escrito em markdown
+
+https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+
+## Escrevendo o básico
+
+## Github Stats e diferentes formatos para ele
+
+Github Stats
+https://github.com/anuraghazra/github-readme-stats
+
+## Badges das tecnologias
+
+https://devicon.dev/
+
+## Links para redes sociais
+
+https://dev.to/envoy_/150-badges-for-github-pnk
+
+## Gif
+
+https://picrew.me/image_maker/338224
+
+## Cobrinha
+
+https://www.instagram.com/p/CPjUBhXDNEE/
+
+## Exemplos de repositórios e outras ideias
+
+SIMBOLOS
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://dev.to/envoy_/150-badges-for-github-pnk
+
+https://github.com/abhisheknaiidu/awesome-github-profile-readme#code-mode-
+
+Youtube
+https://github.com/DenverCoder1/github-readme-youtube-stats#subscribers-badge
+
+Descritivo
+https://github.com/garimasingh128/garimasingh128
+https://github.com/Defcon27/Defcon27
+https://github.com/onimur/onimur
+https://github.com/Rishit-dagli/Rishit-dagli
+https://github.com/bornmay/bornmay
+https://github.com/PrincessAkira/PrincessAkira ANIME
+
+Tecnologias
+https://github.com/techytushar/techytushar
+
+Código
+https://github.com/anmol098/anmol098
+
+Arte própria
+https://github.com/stephenajulu/stephena
+julu
+https://github.com/DennisHartrampf/DennisHartrampf
+
+Gifs
+https://github.com/ari-hacks/ari-hacks
+https://github.com/Prince-Shivaram/Prince-Shivaram
+https://github.com/Shanu1515/Shanu1515
+
+Digitação
+https://github.com/CyrisXD/CyrisXD
+https://github.com/mmphego/mmphego
+
+Minimalistas
+https://github.com/caneco/
+https://github.com/pr2tik1/pr2tik1
+
+Ferramentas
+
+To do list
+https://github.com/abhisheknaiidu/todoist-readme
+
+Dev time
+https://github.com/athul/waka-readme
+
+Spotify
+https://github.com/kittinan/spotify-github-profile
+https://github.com/novatorem/novatorem
+
+Linkedin
+https://github.com/soroushchehresa/github-readme-linkedin
+
+Stackoverflow
+https://github.com/omidnikrah/github-readme-stackoverflow
+
+Dev Jokes
+https://github.com/ABSphreak/readme-jokes
+
+Trofeus
+https://github.com/ryo-ma/github-profile-trophy
+
+Twitter
+https://github.com/gazf/github-readme-twitter
+
+Meme aleatorio
+https://github.com/techytushar/random-memer
+
+Quotes
+https://github.com/PiyushSuthar/github-readme-quotes
